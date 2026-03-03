@@ -1,0 +1,6 @@
+[package]
+name = "l2300-spells-and-potions"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
