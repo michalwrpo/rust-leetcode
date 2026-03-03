@@ -1,0 +1,6 @@
+[package]
+name = "l0011-container-most-water"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
